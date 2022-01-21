@@ -1,6 +1,6 @@
 import express from "express";
 import filmes from './src/data/filmes.json'
-teste = filmes()
+const teste = filmes
 const server = express();
 
 
